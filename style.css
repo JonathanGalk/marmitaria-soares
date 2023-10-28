@@ -3,7 +3,6 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Playpen Sans', cursive;
-    list-style: none;
 }
 /* Configuração do body */
 body {
@@ -58,6 +57,9 @@ header p {
     background-color: #fdfdfd;
     color: #fe4e03;
     cursor: pointer;
+}
+.menu-links details ul {
+    list-style: none;
 }
 details > summary {
     list-style: none;
