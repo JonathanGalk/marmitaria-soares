@@ -137,3 +137,17 @@ footer a {
     text-decoration: underline;
 }
 /* Whatsapp */
+.zap {
+    width: 48px;
+    height: 48px;
+    position: absolute;
+    z-index: 1;
+    bottom: 20%;
+    right: 10px;
+    font-size: 36px;
+    color: #fdfdfd;
+    background-color: green;
+    border-radius: 50%;
+    text-align: center;
+    box-shadow: 1px 11px 20px -10px rgba(0,0,0,0.75);
+}
