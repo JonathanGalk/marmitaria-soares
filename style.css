@@ -4,18 +4,19 @@
     box-sizing: border-box;
     font-family: 'Playpen Sans', cursive;
 }
-html {
-    
-}
 /* Configuração do body */
 body {
     background: url(./assets/bg.jpg) no-repeat center/ cover fixed;
 }
 /* Conteudo principal */
 .container {
-    width: 360px;
+    min-width: 360px;
     max-width: 560px;
     min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     margin: 0 auto;
     background-color: #ffffff0e;
     backdrop-filter: blur(4px);
@@ -88,3 +89,51 @@ span {
         opacity: 1;
     }
 }
+
+/* Endereço e map */
+.endereco {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+.endereco p {
+    color: #fff;
+    padding: 5px;
+    margin: 5px;
+}
+.endereco ion-icon {
+    color: red;
+}
+
+/* Redes Sociais*/
+.redes {
+    margin-top: 16px;
+    padding: 8px;
+    background-color: #fdfdfd;
+    width: 100%;
+    text-align: center;
+}
+.redes a {
+    color: #fe4e03;
+    font-size: 24px; 
+    padding: 8px;
+    transition: color .5s;
+}
+.redes a:hover {
+    color: #fe4e0334;
+}
+
+/* Rodapé */
+footer {
+    color:#fdfdfd;
+    font-size: 14px;
+    padding: 8px;
+    margin: 8px;
+}
+footer a {
+    color: #fe4e03;
+    text-decoration: underline;
+}
+/* Whatsapp */
