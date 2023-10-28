@@ -1,7 +1,7 @@
 <h1 align="center"> Marmitaria Soares </h1>
 
 <p align="center">
-    Projeto inicido para reforçar conhecimentos adquiridos e para ajudar um amigo.
+    Projeto iniciado para reforçar conhecimentos adquiridos e para ajudar um amigo.
 </p>
 
 <br>
