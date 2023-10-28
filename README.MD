@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ##  Projeto
 
-O Marmitaria Soares é como um cartão de visitas online, com uso inicialmente para redes sociais.
+A Marmitaria Soares é como um cartão de visitas online, com uso inicialmente para redes sociais.
 
 - [Acesse o projeto finalizado, online](https://bit.ly/3tOTq78)
 
