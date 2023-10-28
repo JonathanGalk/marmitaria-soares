@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Playpen Sans', cursive;
+    list-style: none;
 }
 /* Configuração do body */
 body {
