@@ -18,7 +18,7 @@
 
 <br>
 
-##  Tecnologias
+## Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -26,13 +26,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 - Rascunho desenhado(xD)
 
-##  Projeto
+## Projeto
 
 A Marmitaria Soares é como um cartão de visitas online, com uso inicialmente para redes sociais.
 
 - [Acesse o projeto finalizado, online](https://bit.ly/3tOTq78)
 
-##  Layout
+## Layout
 <p align="center">
     Aqui foi feito os rascunhos de como eu gostaria que ele fosse, sendo aprovado, começamos os codigos!!
 </p>
@@ -40,7 +40,7 @@ A Marmitaria Soares é como um cartão de visitas online, com uso inicialmente p
   <img alt="projeto DevLinks" src=".github/rascunho.jpg" width="100%">
 </p>
 
-##  Mais
+## Mais
 Aqui você encontra mais alguns exemplos
 - [Mais exemplos HTML e CSS](https://github.com/JonathanGalk/exemplos_html)
 
